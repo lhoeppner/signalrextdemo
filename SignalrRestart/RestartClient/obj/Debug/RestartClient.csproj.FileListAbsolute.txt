@@ -1,0 +1,16 @@
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\RestartClient.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\RestartClient.pdb
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.Security.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Newtonsoft.Json.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Owin.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.xml
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Microsoft.Owin.Security.xml
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\bin\Newtonsoft.Json.xml
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\obj\Debug\RestartClient.csprojResolveAssemblyReference.cache
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\obj\Debug\RestartClient.dll
+C:\Users\erc\Documents\Visual Studio 2012\Projects\SignalrRestart\RestartClient\obj\Debug\RestartClient.pdb
